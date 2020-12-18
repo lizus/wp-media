@@ -1,0 +1,20 @@
+{
+    "name": "lizus/wp-media",
+    "description": "wp media handler",
+    "type": "library",
+    "require": {
+        "php": ">=7.0",
+        "lizus/php-loaddir": "dev-master"
+    },
+    "license": "gpl",
+    "authors": [{
+        "name": "lizus",
+        "email": "lizus.com@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "autoload": {
+        "files": [
+            "src/load.php"
+        ]
+    }
+}
