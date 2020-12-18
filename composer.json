@@ -6,7 +6,7 @@
         "php": ">=7.0",
         "lizus/php-loaddir": "dev-master"
     },
-    "license": "gpl",
+    "license": "GPL-2.0-or-later",
     "authors": [{
         "name": "lizus",
         "email": "lizus.com@gmail.com"
